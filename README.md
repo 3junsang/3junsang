@@ -15,6 +15,6 @@
 
 <div align="center">
     <a href="https://github.com/sideotod" target="_blank"><img src="https://img.shields.io/badge/Github-181717?&logo=Github&logoColor=white"/></a>
-    <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>    
+    <a href="https://banzzagi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>    
     <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
 </div><br># 3junsang
